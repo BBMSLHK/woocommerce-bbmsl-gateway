@@ -1,0 +1,7 @@
+.bbmsl-btn{background:#8be5a9!important;background:linear-gradient(45deg,#8be5a9 0,#3dbeba 50%,#3dbeba 100%)!important;}
+.bbmsl-btn.sm{padding:6px 12px;font-size:12px;height:auto;width:auto;min-width:auto;}
+.payment_box.payment_method_bbmsl{clear:both;display:block;}
+.payment_box.payment_method_bbmsl hr{margin: 8px 0!important;}
+.payment_box.payment_method_bbmsl img{display:block;max-width:100%;width:100%;height:auto;border-radius:0;max-height:unset!important;float:unset!important;}
+.payment_box.payment_method_bbmsl .bbmsl_payment_methods {display:flex;margin-top:8px;flex-wrap:wrap;}
+.payment_box.payment_method_bbmsl .bbmsl_payment_methods .logo{ width:calc(100% / 7);height:40px;object-fit:contain;object-position:center;background:#FFF;padding:8px!important;border-radius:8px;margin:3px;}
