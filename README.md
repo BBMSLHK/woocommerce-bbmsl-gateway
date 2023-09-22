@@ -61,7 +61,3 @@ You can find the detailed BBMSL Online API here: [https://docs.bbmsl.com/](https
 #### Does BBMSL provide sandbox environment for testing?
 
 Yes, you could enable testing mode for testing and switch to production mode after testing.
-
-
-
-

@@ -3,8 +3,8 @@ Contributors:BBMSL
 Donate link:
 Tags: Payment Gateway, Woocommerce Plugin, Alipay, wechat, Visa, Mastercard, Apple Pay, Google Pay
 Requires at least: 4.3
-Tested up to: 6.0.2
-Stable tag: 1.0.8
+Tested up to: 6.3.1
+Stable tag: 1.0.20
 Requires PHP: 7.4
 License: GNU General Public License v3.0
 License URI: <http://www.gnu.org/licenses/gpl-3.0.html>
@@ -83,5 +83,8 @@ Yes, you could enable testing mode for testing and switch to production mode aft
 = 1.0.8 =
 * Initial release.
 
+= 1.0.20 =
+* Add checkout page configuration.
+* Add WooCommerce Order configuration.
 
 
